@@ -8,8 +8,9 @@ function Type() {
         strings: [
           "Developer",
           "Python Developer",
-          "AI and ML Learning",
+          "ODOO Developer",
           "Web Developer",
+          "AI and ML Learning",
           "Open Source Contributor",
         ],
         autoStart: true,
