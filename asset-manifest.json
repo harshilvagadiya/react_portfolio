@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react_portfolio/static/css/main.9e765725.css",
+    "main.js": "/react_portfolio/static/js/main.ad2fe5ae.js",
+    "static/js/415.4d6acbeb.chunk.js": "/react_portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/react_portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Flight.jpg": "/react_portfolio/static/media/Flight.dd82adb87e1ddfd540bf.jpg",
+    "static/media/aeps (2).png": "/react_portfolio/static/media/aeps (2).3566f681a293945d9dc9.png",
+    "static/media/Background.png": "/react_portfolio/static/media/Background.9fb679eb46a12b07e812.png",
+    "static/media/WooCommerce Connector (Edition_ Odoo Community & Enterprise, Version_ 14.jfif": "/react_portfolio/static/media/WooCommerce Connector (Edition_ Odoo Community & Enterprise, Version_ 14.3e6145cd08502801db27.jfif",
+    "static/media/Shopify Odoo Connector (Edition_ Odoo Community & Enterprise, Version_ 14.png": "/react_portfolio/static/media/Shopify Odoo Connector (Edition_ Odoo Community & Enterprise, Version_ 14.9f4eb892824dca71ba9d.png",
+    "static/media/bbos.jpg": "/react_portfolio/static/media/bbos.73082281c4a866eb084c.jpg",
+    "static/media/home-main.svg": "/react_portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/react_portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/3rd Party Logistics Connector .png": "/react_portfolio/static/media/3rd Party Logistics Connector .af0c9f8d8b1886fecf94.png",
+    "static/media/Harshil_vagadiya_Resume.pdf": "/react_portfolio/static/media/Harshil_vagadiya_Resume.62c2392c837473678b47.pdf",
+    "static/media/home-bg.jpg": "/react_portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/react_portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/react_portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/react_portfolio/index.html",
+    "main.9e765725.css.map": "/react_portfolio/static/css/main.9e765725.css.map",
+    "main.ad2fe5ae.js.map": "/react_portfolio/static/js/main.ad2fe5ae.js.map",
+    "415.4d6acbeb.chunk.js.map": "/react_portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/react_portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e765725.css",
+    "static/js/main.ad2fe5ae.js"
+  ]
+}
